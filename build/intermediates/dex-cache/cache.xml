@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\xyzreader\XYZReader\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="E:\FCI\Android\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\2\volley_bade735197a2c4c27d9084e039fb396d27fcbc8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\xyzreader\XYZReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="20d47ee9984b2d980f1eadc6ce80ef018925ee98">
+        <dex dex="E:\FCI\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_93eeeee6360b90501acd15c6857717243182efa7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ahmed\.android\build-cache\e80abc5099f17c72c8522f265b5c8e895e1cd7dc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="E:\FCI\Android\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6b0e278fe2c97358a1186a163e8cf1589a53bca8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ahmed\.android\build-cache\9253fd3e0a7beb4a7daf6bc652652b552d3921a3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="30a4938ea5235ccf532b3e9f04200e68547e36ad">
+        <dex dex="E:\FCI\Android\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a563f629337e57474de5b58535079019032d0518\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\xyzreader\XYZReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1766f5d32a8647454f7782eeeb516f6ad7ae4830">
+        <dex dex="E:\FCI\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_93eeeee6360b90501acd15c6857717243182efa7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\xyzreader\XYZReader\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="E:\FCI\Android\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_029b7a4a43f51e4f79c454e5827ee5c84ea3eb27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ahmed\.android\build-cache\3554fcdb420124ceaa654b004cf53b63f9df77b7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="E:\FCI\Android\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a9d4b4bab51347bb9fa1b8716156a4aa8ffad5fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ahmed\.android\build-cache\4f600ff98dd51a1d280458efed3c84e5e88e64f4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="E:\FCI\Android\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6e333c5e9a1051e7217de95ee34dc76be128bea3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ahmed\.android\build-cache\50bb2be3c26873e594231fc7ef9de8759546daba\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\FCI\Android\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f1ae26daa526fe24b50427d5cc1f670f5141b230\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\xyzreader\XYZReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7ba775a2eda2878d9f3d56e4a0914437e49a8d15">
+        <dex dex="E:\FCI\Android\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3a067672c8e91e66f6ed2b5826c0aef970972631\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ahmed\.android\build-cache\6e5666812f47a773d5373b266b94f27728ecdd0b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="E:\FCI\Android\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b8f3e329bda9b6f06ff454692fd2b3d43ee033f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ahmed\.android\build-cache\f308bea47802bc22ab39cb752fb8390cf6259332\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="20e6d443b368a3cbcfd9121e6f424708e772967e">
+        <dex dex="E:\FCI\Android\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6f2832058fe976ef11c69455a82da440dbd8c303\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ahmed\.android\build-cache\0b76bccf4079a2b8cb41eda56baef6072d9b0098\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="E:\FCI\Android\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7fae94fc449c721aca78fe4ce805af0c2e94b9c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\xyzreader\XYZReader\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="E:\FCI\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\2\volley_fef4fc5b9569b6a9636eca16ea8dd2f918b2fe7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ahmed\.android\build-cache\902d909b72580c8426557ecc07af8209f3388bd1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="E:\FCI\Android\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\classes_899965d4d7bdee99e626b726b53b0f4f2dab4d64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ahmed\.android\build-cache\2e3e36b458bd7582c23f49f778d20b5e5fa47153\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="E:\FCI\Android\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\classes_94927f313d93ee0d6d5dc3b4ce4135606373ed4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ahmed\.android\build-cache\aba23094500c274caa1991b5a7b141456c39fbdb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="E:\FCI\Android\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\classes_510eec814f6556ea47a342282855f3fff77dde94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\xyzreader\XYZReader\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="E:\FCI\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3d636df5be194acc32526522325e0b5a93d7c42b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ahmed\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="E:\FCI\Android\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_c6c95567c7eef461159fbe898a17320f745c80f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\xyzreader\XYZReader\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="E:\FCI\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3d636df5be194acc32526522325e0b5a93d7c42b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\xyzreader\XYZReader\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="E:\FCI\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\2\volley_fef4fc5b9569b6a9636eca16ea8dd2f918b2fe7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ahmed\.android\build-cache\d9aa783b6841f091c2798237ba0aea88c6f8835a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="E:\FCI\Android\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6e79ec434818dd3903a918be90947cfa1e9c7881\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ahmed\.android\build-cache\2f4907abfe5321a97e761eaede810d16f167f40c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="E:\FCI\Android\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f4bcb1b60ab255b2ca56f7046b29f9e1189aca7d\classes.dex" />
+    </item>
+
+</items>

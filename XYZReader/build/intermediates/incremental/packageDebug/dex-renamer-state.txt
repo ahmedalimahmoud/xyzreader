@@ -1,0 +1,7 @@
+#Fri Mar 10 15:06:53 EET 2017
+base.0=E\:\\FCI\\xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_93eeeee6360b90501acd15c6857717243182efa7
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\FCI\\xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3d636df5be194acc32526522325e0b5a93d7c42b\\classes.dex
+base.1=E\:\\FCI\\xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3d636df5be194acc32526522325e0b5a93d7c42b
+file.0=E\:\\FCI\\xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_93eeeee6360b90501acd15c6857717243182efa7\\classes.dex
